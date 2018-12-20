@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "130687834514",
+    "firebase_url": "https://artugueacylab82.firebaseio.com",
+    "project_id": "artugueacylab82",
+    "storage_bucket": "artugueacylab82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130687834514:android:88804e3fe406b212",
+        "android_client_info": {
+          "package_name": "acy.artugue.com.artugueacylab8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130687834514-p0vbk74s8n0t413e5f1r8a9rpabbpeo9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "acy.artugue.com.artugueacylab8",
+            "certificate_hash": "4e57ff88016d4b468a9d4a65e4c4ecea57c39e10"
+          }
+        },
+        {
+          "client_id": "130687834514-tq6k46othr6r639v848vidv87fb138g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwCu6qate3v1kUUz1lLuVQ4VZbwSkQtWk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130687834514-tq6k46othr6r639v848vidv87fb138g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
